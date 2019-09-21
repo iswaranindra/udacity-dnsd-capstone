@@ -1,23 +1,23 @@
-# Udacity DSND Program - Capstone Project - Starbucks Promotion Analysis
+# Starbucks Promotion Analysis
 ## Table of Contents
-1. [Project Definition](#pd)
-  1.1 [Project Overview](#po)
-  1.2 [Problem Statement](#ps)
-  1.3 [Metrics](#me)  
-2. [Analysis](#an)
-  2.1 [Exploration and Visualization](#xv)
-3. [Methodology](#mt)
-  3.1 [Data preprocessing](#dp)
-  3.2 [Implementation](#im)
-  3.3 [Refinement](#re)
-4. [Results](#rs)
-  4.1 [Model evaluation and validation](#me)
-  4.2 [Justification](#ju)
-5. [Conclusion](#co)
-  5.1 [Reflection](#rf)
-  5.2 [Improvement](#ip)
-6. [Build with](#bw)
-7. [Credits and Acknowledgements](#ca)
+1. [Project Definition](#pd) <br>
+  1.1 [Project Overview](#po) <br>
+  1.2 [Problem Statement](#ps) <br>
+  1.3 [Metrics](#me)  <br>
+2. [Analysis](#an)<br>
+  2.1 [Exploration and Visualization](#xv)<br>
+3. [Methodology](#mt)<br>
+  3.1 [Data preprocessing](#dp)<br>
+  3.2 [Implementation](#im)<br>
+  3.3 [Refinement](#re)<br>
+4. [Results](#rs)<br>
+  4.1 [Model evaluation and validation](#me)<br>
+  4.2 [Justification](#ju)<br>
+5. [Conclusion](#co)<br>
+  5.1 [Reflection](#rf)<br>
+  5.2 [Improvement](#ip)<br>
+6. [Build with](#bw)<br>
+7. [Credits and Acknowledgements](#ca)<br>
 
 <a name="pd"></a>
 ## 1. Project Definition
@@ -43,8 +43,8 @@
 ## 4. Results
 <a name="me"></a>
 ### 4.1 Model evaluation and validation
-<a name="pd"></a>
-### 4.2 [Justification](#ju)
+<a name="ju"></a>
+### 4.2 Justification
 <a name="co"></a>
 ## 5. Conclusion
 <a name="rf"></a>
